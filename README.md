@@ -25,7 +25,10 @@
 
 ## В итоге лучшей оказалась нейронная сеть + Catboost, выдавая результат с MAE = 569 тыс. рублей. 
 
-<img src=1.jpg width=500 height=340>
-<img src=2.jpg width=500 height=340>
-<img src=3.jpg width=500 height=340>
-<img src=4.jpg width=500 height=340>
+
+
+### <p align="center"> ༘⋆🌷💭 ⋆˙Некоторые интересные моменты 🌼🌿☁️</p>
+<p align="center"> <img src=4.jpg width=600 height=340> </p>
+<p align="center"><img src=3.jpg width=600 height=340> </p>
+<p align="center"><img src=2.jpg width=600 height=340> </p>
+<p align="center"><img src=1.jpg width=600 height=340> </p>
