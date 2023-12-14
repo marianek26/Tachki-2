@@ -7,7 +7,7 @@
 
 ### В этом проекте мы сосредоточились на Machine Learning методах для построения моделей, предсказывающих цену автомобилей на сайте drom.ru
 
-## В файле <a href="" target="_blank">"green team"</a> лежит презентация нашего проекта, там можно найти:
+## В файле <a href="https://github.com/marianek26/Tachki-2/blob/main/green%20team.pdf" target="_blank">"green team"</a> лежит презентация нашего проекта, там можно найти:
 <ul>
  <dl>
    
@@ -22,7 +22,8 @@
 </dl>
  <dl>
 </ul>
-
+  
+## А тут наши кусочки кода <a href="https://github.com/marianek26/Tachki-2/blob/main/more%20processing-2.ipynb" target="_blank">preprocessing</a>, <a href="https://github.com/marianek26/Tachki-2/blob/main/Linear.ipynb" target="_blank">про линейные модели</a>, <a href="https://github.com/marianek26/Tachki-2/blob/main/Forest.ipynb" target="_blank">про деревья</a>
 ## В итоге лучшей оказалась нейронная сеть + Catboost, выдавая результат с MAE = 569 тыс. рублей. 
 
 
